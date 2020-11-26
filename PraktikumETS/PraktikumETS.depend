@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1606314728 source:d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\main.cpp
+	"STROKE.h"
+	"SHAPE.h"
+	"UTILS.h"
+
+1605352105 d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\stroke.h
+	<stdio.h>
+	<graphics.h>
+
+1606316659 d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\shape.h
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1606315089 d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\utils.h
+	<math.h>
+	<stdio.h>
+
+1606317566 source:d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\shape.cpp
+	"SHAPE.h"
+	"STROKE.h"
+	"UTILS.h"
+
+1605352094 source:d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\stroke.cpp
+	"STROKE.h"
+
+1606312704 source:d:\polban\semester 5 2020\komputer grafik\tugas 6 ets\praktikumets\utils.cpp
+	"UTILS.h"
+	"STROKE.h"
+	"SHAPE.h"
+
